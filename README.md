@@ -1,5 +1,7 @@
 # Vim Cheatsheet
 
+For detailed information, please see the vim motion documentation [here](https://vimdoc.sourceforge.net/htmldoc/motion.html#motion.txt) by Bram Moolenaar.
+
 ## Default Vim Commands
 
 ### Deleting & Changing
